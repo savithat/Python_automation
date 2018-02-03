@@ -1,0 +1,102 @@
+1514405505739	geckodriver	INFO	geckodriver 0.19.1
+1514405505739	geckodriver	INFO	Listening on 127.0.0.1:59689
+1514405507864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jagad\\AppData\\Local\\Temp\\rust_mozprofile.4h75dWxIH83m"
+1514405508859	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514405510647	Marionette	INFO	Listening on port 59695
+1514405511089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514405511168	Marionette	DEBUG	Register listener.js for window 4294967297
+1514405511202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514405511503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514405511503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514405513039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405574283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514405585788	geckodriver	INFO	geckodriver 0.19.1
+1514405585806	geckodriver	INFO	Listening on 127.0.0.1:59781
+1514405587876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jagad\\AppData\\Local\\Temp\\rust_mozprofile.K7kd1xFJxGNb"
+1514405589179	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514405592387	Marionette	INFO	Listening on port 59788
+1514405593294	Marionette	WARN	TLS certificate errors wi1514405594025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jagad\\AppData\\Local\\Temp\\rust_mozprofile.ZYugNclztBMe"
+1514405595939	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 33544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1514405787726	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405792676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405792971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405793128	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405794825	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405794826	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/log1514405807573	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405811380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405811885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405811963	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405813435	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405813436	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405814020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405814613	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405814792	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405815053	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeLis1514405928328	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405932124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405932401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405932461	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405933928	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405933928	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514405934856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405934982	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405935067	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405935283	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405935283	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405935520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/addEmployee"
+1514405935567	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/addEmployee"
+1514405935855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405936158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405936216	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/addEmployee"
+1514405936745	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/addEmployee"
+1514405936745	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/addEmployee"
+1514405937338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewPersonalDetails/empNumber/8003"
+1514405937440	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewPersonalDetails/empNumber/8003"
+1514405937499	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewPersonalDetails/empNumber/8003"
+15144059379311514405996251	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+M event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewPersonalDetails/empNumber/8003"
+1514405938328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList/reset/1"
+1514405938354	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList/reset/1"
+1514405938503	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfo1514406012435	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+nov.com:4515/symfony/web/index.php/pim/viewEmployeeList/reset/1"
+1514405938854	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList/reset/1"
+1514405939151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405939237	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405939514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514405939545	Marionette	DEBUG	Received DOM event "beforeunload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405939799	Marionette	DEBUG	Received DOM event "pagehide" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405939799	Marionette	DEBUG	Received DOM event "unload" for "http://local.school.portnov.com:4515/symfony/web/index.php/pim/viewEmployeeList"
+1514405939946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514406132757	Marionette	DEBUG	Received DOM event "pageshow" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514406203511	geckodriver	INFO	geckodriver 0.19.1
+1514406203527	geckodriver	INFO	Listening on 127.0.0.1:60411
+1514406205688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jagad\\AppData\\Local\\Temp\\rust_mozprofile.LnnPetKadSSJ"
+1514406206748	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514406208502	Marionette	INFO	Listening on port 60419
+1514406208883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514406208980	Marionette	DEBUG	Register listener.js for window 4294967297
+1514406209002	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514406209128	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514406209129	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514406210781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://local.school.portnov.com:4515/symfony/web/index.php/auth/login"
+1514406290290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jagad\AppData\Local\openvr\openvrpaths.vrpath
+[Child 33536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 33536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
